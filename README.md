@@ -1,5 +1,5 @@
 # Hi there, I'm Ezz El-Din Al-Muliki 👋
-### Mechatronics Engineer | Edge AI & Industrial Automation Specialist
+### Mechatronics Engineer | AI & Industrial Automation Specialist
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ezzeldin-almuliki?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
