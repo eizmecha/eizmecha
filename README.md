@@ -35,13 +35,6 @@ I am a **Mechatronics Engineer** passionate about bridging the gap between physi
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="vercel.app" alt="Ezz's GitHub Stats" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/ezzeldin-almuliki](https://www.linkedin.com/in/ezzeldin-almuliki?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 📧 **Email:** [ezzeldin.almuliki@gmail.com](mailto:ezzeldin.almuliki@gmail.com)
