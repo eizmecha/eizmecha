@@ -15,7 +15,7 @@
 ## 🚀 About Me
 High-achieving **Mechatronics Engineer** (Class of April 2026, Honors, 90.27%) with a multidisciplinary background spanning robotics, AI, and industrial automation. Proven **Team Lead** for complex engineering projects, with strong capabilities in coordinating technical workflows and system integration. 
 
-Gained practical industrial exposure through a residency at **YCIC (HSA Group)**, focusing on automated production lines. Currently seeking to leverage advanced skills in control systems and industrial automation within the **Tamheer program** to contribute to operational efficiency and technical excellence.
+Gained practical industrial exposure through a residency at **YCIC (HSA Group)**, focusing on automated production lines. Currently seeking to leverage advanced skills in control systems and industrial automation within to contribute to operational efficiency and technical excellence.
 
 
 - 🛠️ Currently developing and optimizing intelligent workflows using **Azure AutoML** and **Edge-AI** frameworks.
