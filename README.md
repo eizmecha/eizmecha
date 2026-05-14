@@ -36,9 +36,8 @@ I am a **Mechatronics Engineer** passionate about bridging the gap between physi
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="vercel.app" alt="Ezz's GitHub Stats" />
-</p>
+
+![Ezz's GitHub Stats](https://vercel.app)
 
 ---
 
