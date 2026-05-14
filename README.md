@@ -43,6 +43,6 @@ I am a **Mechatronics Engineer** passionate about bridging the gap between physi
 ---
 
 ## 🔗 Connect With Me
-- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- 💼 **LinkedIn:** [linkedin.com/in/ezzeldin-almuliki](https://linkedin.com)
 - 📧 **Email:** [ezzeldin.almuliki@gmail.com](mailto:ezzeldin.almuliki@gmail.com)
 - 🌐 **Portfolio:** Explore my pinned repositories below to see my project architectures and code implementation!
