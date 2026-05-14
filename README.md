@@ -2,7 +2,7 @@
 ### Mechatronics Engineer | Edge AI & Industrial Automation Specialist
 
 <p align="left">
-  <a href="linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/ezzeldin-almuliki?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="shields.io" alt="LinkedIn">
   </a>
   <a href="mailto:ezzeldin.almuliki@gmail.com" target="_blank">
@@ -36,12 +36,13 @@ I am a **Mechatronics Engineer** passionate about bridging the gap between physi
 ---
 
 ## 📊 GitHub Stats
-
-![Ezz's GitHub Stats](https://vercel.app)
+<p align="left">
+  <img src="vercel.app" alt="Ezz's GitHub Stats" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
-- 💼 **LinkedIn:** [https://linkedin.com](https://linkedin.com?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/ezzeldin-almuliki](https://www.linkedin.com/in/ezzeldin-almuliki?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 📧 **Email:** [ezzeldin.almuliki@gmail.com](mailto:ezzeldin.almuliki@gmail.com)
 - 🌐 **Portfolio:** Explore my pinned repositories below to see my project architectures and code implementation!
