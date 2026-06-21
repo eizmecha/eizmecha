@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-High-achieving **Mechatronics Engineer** (Class of June 2026, **Excellent with Honors**, **90.27%** - **Ranked 5th out of 120+ students**) with a multidisciplinary background in robotics, AI, and industrial automation. Proven Team Lead for complex engineering projects, demonstrating strong capabilities in coordinating technical workflows and system integration. Gained practical industrial exposure through a residency at YCIC (HSA Group). Passionate about driving operational efficiency through control systems and industrial automation.
+High-achieving **Mechatronics Engineer** (Class of June 2026, **Excellent with Honors**, **90.27%**, **Ranked 5th out of 120+ students**) with a multidisciplinary background in robotics, AI, and industrial automation. Proven Team Lead for complex engineering projects, demonstrating strong capabilities in coordinating technical workflows and system integration. Gained practical industrial exposure through a residency at YCIC (HSA Group). Passionate about driving operational efficiency through control systems and industrial automation.
 
 
 - 🛠️ Currently developing and optimizing intelligent workflows using **Azure AutoML** and **Edge-AI** frameworks.
